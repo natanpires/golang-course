@@ -54,7 +54,14 @@ func exibeMenu() {
 
 func iniciarMonitoramento() {
 	fmt.Println("Monitorando...")
-	site := "http://www.alura.com.br"
+	var sites [4]string
+	sites[0] = "https://www.alura.com.br"
+	sites[1] = "https://www.google.com.br"
+	sites[2] = "https://www.random-status-code.herokuapp.com"
+
+	fmt.Println(sites)
+
+	site := "https://www.alura.com.br"
 	resp, _ := http.Get(site)
 	if resp.StatusCode >= 200 && resp.StatusCode < 300 {
 		fmt.Println("Site normal, status:", resp.StatusCode)
