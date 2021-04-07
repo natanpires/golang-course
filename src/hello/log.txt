@@ -1,0 +1,7 @@
+06/04/2021 21:21:29 - https://www.alura.com.br - online: true
+06/04/2021 21:21:31 - https://www.google.com.br - online: true
+06/04/2021 21:21:34 - https://httpstat.us/422 - online: false
+06/04/2021 21:21:36 - https://httpstat.us/500 - online: false
+06/04/2021 21:21:38 - https://httpstat.us/203 - online: true
+06/04/2021 21:21:41 - https://httpstat.us/204 - online: true
+06/04/2021 21:21:43 - https://globo.com - online: true
