@@ -1,0 +1,7 @@
+https://www.alura.com.br
+https://www.google.com.br
+https://httpstat.us/422
+https://httpstat.us/500
+https://httpstat.us/203
+https://httpstat.us/204
+https://globo.com
